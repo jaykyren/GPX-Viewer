@@ -1,0 +1,19 @@
+/* Localizable.strings
+  GPXViewer
+
+  Created by NextBusinessSystem on 12/01/26.
+  Copyright (c) 2012 NextBusinessSystem Co., Ltd. All rights reserved. */
+
+"Map" = "地図";
+"Detail" = "詳細";
+"Standard" = "標準";
+"Satellite" = "航空写真";
+"Hybrid" = "地図+写真";
+"Open" = "参照";
+"Enter the URL of GPX file." = "GPXファイルのURLを入力して下さい";
+"Please enter the URL" = "URLを入力して下さい";
+"Failed to open the URL" = "URLを参照することができませんでした";
+"Failed to read the GPX file" = "GPXファイルを読み込むことができませんでした";
+"Error" = "エラー";
+"OK" = "OK";
+"Cancel" = "キャンセル";

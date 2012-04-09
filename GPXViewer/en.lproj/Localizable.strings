@@ -1,0 +1,19 @@
+/* Localizable.strings
+  GPXViewer
+
+  Created by NextBusinessSystem on 12/01/26.
+  Copyright (c) 2012 NextBusinessSystem Co., Ltd. All rights reserved. */
+
+"Map" = "Map";
+"Detail" = "Detail";
+"Standard" = "Standard";
+"Satellite" = "Satellite";
+"Hybrid" = "Hybrid";
+"Open" = "Open";
+"Enter the URL of GPX file." = "Enter the URL of GPX file.";
+"Please enter the URL" = "Please enter the URL";
+"Failed to open the URL" = "Failed to open the URL";
+"Failed to read the GPX file" = "Failed to read the GPX file";
+"Error" = "Error";
+"OK" = "OK";
+"Cancel" = "Cancel";
