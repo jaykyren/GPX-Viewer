@@ -42,6 +42,11 @@
         description = track.desc;
     }
     
+    // replace line breaks to <br>
+    if (description) {
+        description = [description stringByReplacingOccurrencesOfString:@"\n" withString:@"<br>"];
+    }
+    
     NSString *htmlString = [NSString stringWithFormat:
                             @"<!DOCTYPE HTML>"
                             "<html>"
